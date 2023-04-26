@@ -9,7 +9,7 @@
 * Data and Rayleigh Distribution.py [Python]
 * Figure 1
 * Figure 2
-* Project 3 Write-up (Essay)
+* Project 4 Write-up (Essay)
 
 
 # Implementation
