@@ -1,9 +1,9 @@
 # PHSX815_Project4
+- Spin Measurements
 
 
 
-
-This resipository contains 
+# This resipository contains 
 
 * Random.py [Python]
 * Data and Rayleigh Distribution.py [Python]
