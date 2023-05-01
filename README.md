@@ -1,15 +1,15 @@
 # PHSX815_Project4
-- Spin Measurements
+- Harmonic Oscillator
 
 
 
 # This resipository contains 
 
 * Random.py [Python]
-* Data and Rayleigh Distribution.py [Python]
+* Harmonic Oscillator.py [Python]
 * Figure 1
 * Figure 2
-* Project 4 Write-up (Essay)
+* 
 
 
 # Implementation
@@ -17,7 +17,7 @@ When calling any of the executables from the command line
 
 '<> Random.py'
 
-'<> Data and Rayleigh Distribution.py'
+'<> Harmonic Oscillator.py'
 
 
 
