@@ -15,7 +15,6 @@
 # Implementation
 When calling any of the executables from the command line 
 
-'<> Random.py'
 
 '<> Radioctive Decay.py'
 
