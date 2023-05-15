@@ -1,5 +1,5 @@
 # PHSX815_Project4
-- Harmonic Oscillator
+- Radioactive Decay Counts
 
 
 
