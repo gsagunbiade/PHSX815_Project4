@@ -5,10 +5,10 @@
 
 # This resipository contains 
 
-* Random.py [Python]
-* Harmonic Oscillator.py [Python]
-* Figure 1
-* Figure 2
+
+* Radioactive Decay.py [Python]
+* Plot 1
+* Plot 2
 * Project 4 writeup
 
 
@@ -17,7 +17,7 @@ When calling any of the executables from the command line
 
 '<> Random.py'
 
-'<> Harmonic Oscillator.py'
+'<> Radioctive Decay.py'
 
 
 
